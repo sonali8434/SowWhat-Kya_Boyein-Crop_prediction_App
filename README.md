@@ -36,6 +36,17 @@ As the problem statement suggests that we have to devise something using AI for 
 * Appropriate and right use of resources.
 * Saves time of farmers. 
 
+## FUTURE SCOPE :
+This app can be enhanced with inclusion of more datasets to inculcate data of more variety of crops. This will result in expansion of prediction area and can be helpful for more and more farmers. Also, we can include video guidance of sustainable practises by experts for better understanding of farmers. 
+
+## INSTRUCTIONS TO USE APP :
+1. On homepage of app you'll see 2 options of "Go to crop prediction" and "Sustainable practises.
+2. Click on first option if you want to predict.
+* Enter all the input values appropriately.
+* Click on "Predict" button to get the result.
+3. Click on second option if you want to see ways of sustainable practises.
+* You'll be directed to a page with list of sustainable agricultural methods.
+ 
 ## HAVE A GLANCE AT OUR SoWhat App :
 
 <img width="301" alt="Screenshot 2023-01-29 at 2 17 49 AM" src="https://user-images.githubusercontent.com/53565103/215290553-431ec11c-c044-4c59-95df-921adaacfdce.png">
