@@ -20,3 +20,5 @@ Farmers living in different areas have different climates, landscapes, microorga
 We had made a mobile app named SowWhat. This app takes input of **Nitrogen** content, **Phosphorous** content, **Potassium** content, **pH value** of soil and **Humidity**, **Rainfall**, and average **Temperature**. After getting input of all values from user, it predicts the best crop that can be grown in that particular area with maximum profit. It aware the farmers by providing some additional knowledge regarding some new sustainable methods that they can practise on their land to promote sustainability. 
 ###### RELEVANCE TO THE PROBLEM STATEMENT :
 As the problem statement suggests that we have to devise something using AI for farmers that will serve as a solution to one of their problems faced practising conventional  agricultural practises. Our prediction app will help the farmers in selection process of a crop for a particular agricultural land. This will leads to efficient agriculture and maximum utilisation of resources in right direction which in turn is a sustainable practise.
+###### BUILT WITH :
+* 
