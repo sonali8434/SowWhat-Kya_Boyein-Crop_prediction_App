@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:prediciton_model/WelcomePage.dart';
 import 'package:prediciton_model/predModel.dart';
-import 'mainscreen.dart';
+import 'package:prediciton_model/Sustainable.dart';
+import 'Sustainable.dart';
 import 'WelcomePage.dart';
 
 void main() {

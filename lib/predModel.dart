@@ -114,6 +114,7 @@ class _PredModelState extends State<PredModel> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color.fromARGB(255, 248, 249, 195),
       appBar: AppBar(
         backgroundColor: Colors.green,
       ),

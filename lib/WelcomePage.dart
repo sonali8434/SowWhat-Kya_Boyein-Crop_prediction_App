@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:prediciton_model/Sustainable.dart';
 import 'predModel.dart';
 
 class WelcomePage extends StatelessWidget {
@@ -73,7 +74,7 @@ class WelcomePage extends StatelessWidget {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => PredModel()));
+                                builder: (context) => Sustainable()));
                       },
                     ),
                   ),
