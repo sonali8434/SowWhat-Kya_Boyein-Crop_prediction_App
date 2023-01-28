@@ -248,7 +248,7 @@ class _PredModelState extends State<PredModel> {
             SizedBox(height: 12),
             Text(
               "Predicted value :  $predValue ",
-              style: TextStyle(color: Colors.blue, fontSize: 23),
+              style: TextStyle(color: Colors.black, fontSize: 23),
             ),
           ],
         ),
