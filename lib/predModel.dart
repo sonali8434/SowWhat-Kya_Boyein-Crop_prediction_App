@@ -17,7 +17,7 @@ class _PredModelState extends State<PredModel> {
   @override
   void initState() {
     super.initState();
-    predValue = "click predict button";
+    predValue = "Click predict button";
   }
 
   final N_Controller = TextEditingController();
@@ -115,7 +115,7 @@ class _PredModelState extends State<PredModel> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.orange,
+        backgroundColor: Colors.green,
       ),
       body: Center(
         child: Column(
@@ -125,11 +125,11 @@ class _PredModelState extends State<PredModel> {
               // N
               controller: N_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Nitrogen content',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Nitrogen Content',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
 
@@ -137,11 +137,11 @@ class _PredModelState extends State<PredModel> {
               // P
               controller: P_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Phosphorus Content',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Phosphorus Content',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
 
@@ -149,11 +149,11 @@ class _PredModelState extends State<PredModel> {
               // K
               controller: K_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Potassium Content',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Potassium Content',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
 
@@ -183,11 +183,11 @@ class _PredModelState extends State<PredModel> {
               // Ph
               controller: Ph_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Ph value',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Ph value',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
 
@@ -195,11 +195,11 @@ class _PredModelState extends State<PredModel> {
               // Rain
               controller: Rain_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Rain Content',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Rain Content',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
 
@@ -207,22 +207,22 @@ class _PredModelState extends State<PredModel> {
               // temprature
               controller: Temprature_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Temprature ',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Temprature ',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
             TextField(
               // humidity
               controller: Humidity_Controller,
               keyboardType: TextInputType.number,
-              textAlign: TextAlign.left,
+              textAlign: TextAlign.center,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: 'PLEASE ENTER Humidity Content',
-                hintStyle: TextStyle(color: Colors.grey),
+                hintText: ' Enter : Humidity Content',
+                hintStyle: TextStyle(color: Colors.black),
               ),
             ),
 
@@ -233,7 +233,7 @@ class _PredModelState extends State<PredModel> {
 
             SizedBox(height: 12),
             MaterialButton(
-              color: Colors.orange,
+              color: Colors.green,
               child: Text(
                 "Predict",
                 style: TextStyle(fontSize: 25),
@@ -247,7 +247,7 @@ class _PredModelState extends State<PredModel> {
             SizedBox(height: 12),
             Text(
               "Predicted value :  $predValue ",
-              style: TextStyle(color: Colors.red, fontSize: 23),
+              style: TextStyle(color: Colors.blue, fontSize: 23),
             ),
           ],
         ),

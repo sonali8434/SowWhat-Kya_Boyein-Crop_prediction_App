@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:prediciton_model/WelcomePage.dart';
 import 'package:prediciton_model/predModel.dart';
 import 'mainscreen.dart';
+import 'WelcomePage.dart';
 
 void main() {
   runApp(MyApp());
@@ -13,9 +15,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.orange,
+        primarySwatch: Colors.green,
       ),
-      home: MainScreen(),
+      home: WelcomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
