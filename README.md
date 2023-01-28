@@ -21,4 +21,15 @@ We had made a mobile app named SowWhat. This app takes input of **Nitrogen** con
 ###### RELEVANCE TO THE PROBLEM STATEMENT :
 As the problem statement suggests that we have to devise something using AI for farmers that will serve as a solution to one of their problems faced practising conventional  agricultural practises. Our prediction app will help the farmers in selection process of a crop for a particular agricultural land. This will leads to efficient agriculture and maximum utilisation of resources in right direction which in turn is a sustainable practise.
 ###### BUILT WITH :
-* 
+* Decision Forest ML model with 99.84% accuracy
+* Python, Numpy, Pandas
+* Flutter
+* Firebase
+
+## FEATURES OF SowWhat App
+* Decision-making for farmers made easier using AI.
+* Farmers new to an area can be helped for selection of crops.
+* Promotes sustainable agriculture.
+* Predict suitable crop for an area.
+* Minimize inefficient farming.
+* Discover easy sustainable agricultural activites within the app.
