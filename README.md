@@ -1,4 +1,4 @@
-# SowWhat(Kya Boyein) Mobile Application
+# SoWhat(Kya Boyein) Mobile Application
 
 ## OUR TEAM ACE :
 1. Sonali Kumari (BTech ECE-AI, 2nd year, IGDTUW)
@@ -28,7 +28,7 @@ As the problem statement suggests that we have to devise something using AI for 
 * Tenserflow
 * Tenseflow lite
 
-## FEATURES OF SowWhat App
+## FEATURES OF SoWhat App
 * Decision-making for farmers made easier using AI.
 * Farmers new to an area can be helped for selection of crops.
 * Promotes sustainable agriculture.
@@ -49,7 +49,7 @@ This app can be enhanced with inclusion of more datasets to inculcate data of mo
 3. Click on second option if you want to see ways of sustainable practises.
 * You'll be directed to a page with list of sustainable agricultural methods.
  
-## HAVE A GLANCE AT OUR SowWhat App :
+## HAVE A GLANCE AT OUR SoWhat App :
 
 <img width="301" alt="Screenshot 2023-01-29 at 2 17 49 AM" src="https://user-images.githubusercontent.com/53565103/215290553-431ec11c-c044-4c59-95df-921adaacfdce.png">
 
