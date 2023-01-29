@@ -11,7 +11,7 @@ The needs of contemporary agriculture, which demands high-yield, high-quality, a
 
 ## OVERVIEW :  
 This is a project made for HackOverflow 2.0 within 48 hours. SoWhat app name indicates a question **"Sow What?"** which is prevalent among farmers regarding what to sow on a particular land. So this app will act as an answer to this long time lingering question as mentioned before. In addtion to prediction this app will suggest some new sustainable agriculture practices to farmers.
-Our team had chosen a problem statement related to **Crop Guidance and Farmers Friend - (BioTech)**. We had majorly utilized Machine Learning to make predictions and used Flutter and Firebase to integrate our ML model into a mobile app. This app aims to ease the decision making of farmers.
+Our team had chosen a problem statement related to **Crop Guidance and Farmers Friend - (BioTech)**. We had majorly utilized Machine Learning to make predictions and used Flutter ,Tenseflow and Tenseflow lite to integrate our ML model into a mobile app. This app aims to ease the decision making of farmers.
 
 ## INSPIRATION :
 Farmers living in different areas have different climates, landscapes, microorganisms, plants and animals so they must adapt their growing practices to local conditions. Managing the decision-making processes of farming has always been complex because there are so many different limiting factors that aren’t within a farmer’s control. So if we can contribute a little to minimize their problem to any extent then also it's overwhelming for our team.
