@@ -53,7 +53,7 @@ This app can be enhanced with inclusion of more datasets to inculcate data of mo
 
  * Youtube Video link - https://youtu.be/Wi7nOOkNHFM
 
-<img width="301" alt="Screenshot 2023-01-29 at 2 17 49 AM" src="https://user-images.githubusercontent.com/53565103/215290553-431ec11c-c044-4c59-95df-921adaacfdce.png">
+<img width="304" alt="Screenshot 2023-01-29 at 5 56 34 PM" src="https://user-images.githubusercontent.com/53565103/215326016-4a0b26bf-c55b-4611-a7ea-7a5bbc11581a.png">
 
 <img width="301" alt="Screenshot 2023-01-29 at 2 18 31 AM" src="https://user-images.githubusercontent.com/53565103/215290564-088cd4d7-9b0f-43e6-8043-79e514f1a537.png">
 
