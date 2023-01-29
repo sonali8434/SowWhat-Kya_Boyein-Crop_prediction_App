@@ -24,7 +24,9 @@ As the problem statement suggests that we have to devise something using AI for 
 * Decision Forest ML model with 99.84% accuracy
 * Python, Numpy, Pandas
 * Flutter
-* Firebase
+* Dart
+* Tenserflow
+* Tenseflow lite
 
 ## FEATURES OF SoWhat App
 * Decision-making for farmers made easier using AI.
@@ -40,7 +42,7 @@ As the problem statement suggests that we have to devise something using AI for 
 This app can be enhanced with inclusion of more datasets to inculcate data of more variety of crops. This will result in expansion of prediction area and can be helpful for more and more farmers. Also, we can include video guidance of sustainable practises by experts for better understanding of farmers. 
 
 ## INSTRUCTIONS TO USE APP :
-1. On homepage of app you'll see 2 options of "Go to crop prediction" and "Sustainable practises.
+1. On homepage of app you'll see 2 options of "Go to crop prediction" and "Sustainable practises".
 2. Click on first option if you want to predict.
 * Enter all the input values appropriately.
 * Click on "Predict" button to get the result.
