@@ -41,7 +41,7 @@ class WelcomePage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "Welcome to SowWhat",
+                  "Welcome to SoWhat",
                   style: TextStyle(
                       fontSize: 36,
                       fontWeight: FontWeight.bold,
