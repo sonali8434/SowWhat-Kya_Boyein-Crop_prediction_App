@@ -30,6 +30,7 @@ As the problem statement suggests that we have to devise something using AI for 
 
 ## FEATURES OF SoWhat App
 * Decision-making for farmers made easier using AI.
+* Available in both hindi and english language.
 * Farmers new to an area can be helped for selection of crops.
 * Promotes sustainable agriculture.
 * Predict suitable crop for an area.
@@ -58,3 +59,9 @@ This app can be enhanced with inclusion of more datasets to inculcate data of mo
 <img width="301" alt="Screenshot 2023-01-29 at 2 18 31 AM" src="https://user-images.githubusercontent.com/53565103/215290564-088cd4d7-9b0f-43e6-8043-79e514f1a537.png">
 
 <img width="304" alt="Screenshot 2023-01-29 at 2 19 52 AM" src="https://user-images.githubusercontent.com/53565103/215290570-f9df4ce4-9a1e-4f30-a134-c99c9bf2bb0f.png">
+
+####Hindi Version of SoWhat
+
+<img width="270" alt="Screenshot 2023-02-03 at 7 46 32 PM" src="https://user-images.githubusercontent.com/53565103/216625782-b1e3bb0d-b059-4732-a522-9fef2298794d.png">
+
+<img width="286" alt="Screenshot 2023-02-03 at 7 47 07 PM" src="https://user-images.githubusercontent.com/53565103/216625830-8464d910-eba4-459b-8587-69ccbb0c5c4c.png">
