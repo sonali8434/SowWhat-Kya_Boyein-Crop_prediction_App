@@ -60,7 +60,7 @@ This app can be enhanced with inclusion of more datasets to inculcate data of mo
 
 <img width="304" alt="Screenshot 2023-01-29 at 2 19 52 AM" src="https://user-images.githubusercontent.com/53565103/215290570-f9df4ce4-9a1e-4f30-a134-c99c9bf2bb0f.png">
 
-####Hindi Version of SoWhat
+#### Hindi Version of SoWhat
 
 <img width="270" alt="Screenshot 2023-02-03 at 7 46 32 PM" src="https://user-images.githubusercontent.com/53565103/216625782-b1e3bb0d-b059-4732-a522-9fef2298794d.png">
 
